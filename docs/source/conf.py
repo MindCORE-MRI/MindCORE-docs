@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MindCORE Neuroimaging Documentation'
+copyright = '2025, Brock Kirwan'
+author = 'cbkirwan'
 
 release = '0.1'
 version = '0.1.0'
