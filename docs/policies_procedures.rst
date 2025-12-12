@@ -77,10 +77,10 @@ Common sense and courtesy are essential. Be aware, prevent unsafe situations, an
 
 **Cleanliness**
 
-– Keep the control room clean (throw away garbage, ear plugs, etc). 
-- Pick up any loose cables or equipment (return to storage) when you are finished using them. 
-- Fold and put away linen, and cushions when finished using them. 
-- Keep the scrub shelves organized and neat. 
+- Keep the control room clean (throw away garbage, ear plugs, etc).
+- Pick up any loose cables or equipment (return to storage) when you are finished using them.
+- Fold and put away linen, and cushions when finished using them.
+- Keep the scrub shelves organized and neat.
 - When you are finished with your experiment, the scan suite should look like you were never there.
 
 **Do not go over your allotted time**
