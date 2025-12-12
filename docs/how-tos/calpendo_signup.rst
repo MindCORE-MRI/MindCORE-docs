@@ -8,6 +8,8 @@ The MindCORE Neuroimaging Facility uses Calpendo to schedule and track usage of 
 
 
 To request an account on Calpendo:
+-------
+
 1. `Go to upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com>`_ and click on "Register new user". 
 .. figure:: images/Calpendo_login.png
 2. Click on "Create a local account"
@@ -15,6 +17,8 @@ To request an account on Calpendo:
 4. Click "Register" to submit the registration application. New user requests are typically approved within a business day.
 
 To schedule resources on Calpendo:
+-------
+
 1. `Go to upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com/>`_ and login with your chosen username and password.
 2. Click on "Calendars" on the left of the navigation ribbon.
 3. Select the resource(s) you'd like to view by clicking on them in the "Resources" panel on the left of the page. You can select multiple resource calendars to view by holding down control (windows) or command (mac) while clicking those you want to view. 
