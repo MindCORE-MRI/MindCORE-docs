@@ -8,6 +8,7 @@ Contents
 
 .. toctree::
    getting_started
+   policies_procedures
 
 .. toctree::
    :maxdepth: 1
