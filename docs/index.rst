@@ -11,10 +11,21 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: How-Tos
+   :caption: General
 
    how-tos/calpendo_signup
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: MRI
 
+   how-tos/MRI_eyetracker_setup
+
+.. toctree::
+   :maxdepth: 1
+   :caption: EEG
+
+   how-tos/EEG_cap_gel
 
 
 

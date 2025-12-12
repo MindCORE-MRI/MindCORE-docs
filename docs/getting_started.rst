@@ -1,30 +1,23 @@
 Getting Started
 ===================================
 
-This page describes the requirements and procedures for obtaining permission to access and/or operate the MindCORE Neuroimaging facilities at Pennovation Works.
+**This page describes the requirements and procedures for obtaining permission to access and/or operate the MindCORE MRI scanner facilities at Pennovation Works.**
 
-. note::
-	This process has some common elements with that of CAMRIS. For example, the online training for both Level 1 and Level 2 are the same for both MindCORE and CAMRIS. However, Level 1 and Level 2 designation is not transferrable between our system and CAMRIS (though if you have completed either Level 1 or 2 training through CAMRIS the MindCORE process will be pretty simple). In other words those who have obtained Level 1 clearance from CAMRIS will still need to complete the steps for Level 1 clearance at MindCORE. Those who have completed Level 2 training at CAMRIS may be fast-tracked in the training process for MindCORE (see below).
+.. Note::
+	This process has some common elements with that of `CAMRIS <https://www.med.upenn.edu/camris/training.html/>`_. For example, the online training for both Level 1 and Level 2 are the same for both MindCORE and CAMRIS. However, Level 1 and Level 2 designation is not transferrable between our system and CAMRIS (though if you have completed either Level 1 or 2 training through CAMRIS the MindCORE process will be pretty simple). In other words those who have obtained Level 1 clearance from CAMRIS will still need to complete the steps for Level 1 clearance at MindCORE. Those who have completed Level 2 training at CAMRIS may be fast-tracked in the training process for MindCORE (:ref: `see below <level1>`).
 
 .. _user-access-training:
 
 User Access and Training
 ------------------------
 
-**This page describes the requirements and procedures for obtaining permission to access and/or operate the MindCORE MRI scanner facilities at Pennovation Works.**
-
-Note that this process has some common elements with that of `CAMRIS <https://www.med.upenn.edu/camris/training.html/>`_, but they are separate processes. Those who have obtained Level 1 clearance from CAMRIS will still need to complete the steps for Level 1 clearance at MindCORE. Those who have completed Level 2 training at CAMRIS may be fast-tracked in the training process for MindCORE (see below).
-
 **There are three levels of user authorization:**
 
-- :ref:`level1` – Access Only
-  Intended for all support personnel who assist in MRI protocols. **Required** for ID Card access to the MRI facilities.
+- :ref:`level1` – Intended for all support personnel who assist in MRI protocols. **Required** for ID Card access to the MRI facilities.
 
-- :ref:`level2` – Basic Operator
-  For scanning human subjects under an IRB approved protocol. Allows scanning **without** an MR Technologist.
+- :ref:`level2` – For scanning human subjects under an IRB approved protocol. Allows scanning **without** an MR Technologist.
 
-- :ref:`level3` – Advanced Operator/Trainer  
-  For advanced, experimental use of the scanners, including sequence or coil approval.
+- :ref:`level3` – For advanced, experimental use of the scanners, including sequence or coil approval.
 
 .. _level1:
 
@@ -67,12 +60,11 @@ Restrictions:
 Steps required for Level 2 certification:
 
 1. Obtain Level 1 certification (see above).
-2. Complete the Level 2 online safety module on `WorkDay <https://www.workday.upenn.edu/>`_: 
-	a. `MRI Safety Training - Level 2 <https://www.myworkday.com/upenn/learning/course/421c7bb4670b1000b79d139a25880000>`_ 
+2. Complete the Level 2 online safety module on WorkDay: `MRI Safety Training - Level 2 <https://www.myworkday.com/upenn/learning/course/421c7bb4670b1000b79d139a25880000>`_ 
 3. Demonstrate competency in operating the Siemens MRI system. Competency may be gained by:
 
-   - Shadowing Level 2 users for ≥10 hours, or  
-   - Prior experience on Siemens systems (e.g., CAMRIS)
+   a. Shadowing Level 2 users for ≥10 hours, or  
+   b. Prior experience on Siemens systems (e.g., CAMRIS)
 
 Competency will be assessed on skills including:
 
