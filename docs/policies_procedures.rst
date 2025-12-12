@@ -71,8 +71,8 @@ Common sense and courtesy are essential. Be aware, prevent unsafe situations, an
 
 **Courtesy**
 
-– Do not remove any cables or equipment from the scanner suite that do not belong to you. 
-- Return any equipment changes to their original state (i.e., projector screen adjustments). 
+- Do not remove any cables or equipment from the scanner suite that do not belong to you. 
+- Return any equipment changes to their original state (i.e., projector screen adjustments).
 - Do not leave random loose cables in the scan room, as they can cause artifacts and accidents.
 
 **Cleanliness**
