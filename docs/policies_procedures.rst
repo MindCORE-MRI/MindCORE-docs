@@ -85,11 +85,12 @@ Common sense and courtesy are essential. Be aware, prevent unsafe situations, an
 
 **Do not go over your allotted time**
 
-– The control room and scanner should be turned over to the next user group at the beginning of their session. This means you should leave time at the end of your slot to remove your participant and tidy the room for the next group.
+- The control room and scanner should be turned over to the next user group at the beginning of their session. This means you should leave time at the end of your slot to remove your participant and tidy the room for the next group.
 - Even if you get started late, your session must end on time.
 
 **Responsibilities**
-– As well as what is mentioned above, responsibilities also include logging scan time, filling out and filing screening forms, and backing up your data. 
+
+- As well as what is mentioned above, responsibilities also include logging scan time, filling out and filing screening forms, and backing up your data.
 - Please report any scanner issues or broken equipment using Slack.
 
 .. _incidental-findings:
