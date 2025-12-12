@@ -7,6 +7,16 @@ Contents
 --------
 
 .. toctree::
+   getting_started
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: How-Tos
 
-   usage
+   how-tos/calpendo_signup
+
+
+
+
+   
   
