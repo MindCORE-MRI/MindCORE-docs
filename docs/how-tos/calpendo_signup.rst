@@ -10,7 +10,8 @@ The MindCORE Neuroimaging Facility uses Calpendo to schedule and track usage of 
 To request an account on Calpendo:
 -------
 
-1. `Go to upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com>`_ and click on "Register new user". 
+1. `Go to upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com>`_ and click on "Register new user".
+
 .. figure:: images/Calpendo_login.png
 2. Click on "Create a local account"
 3. Choose a login name and password. Fill out the information for your name and email address.
