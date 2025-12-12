@@ -8,7 +8,7 @@ Contents
 
 .. toctree::
    getting_started
-   
+
 .. toctree::
    :maxdepth: 1
    :caption: How-Tos
@@ -18,5 +18,6 @@ Contents
 
 
 
-   
+.. Note::
+   This documentation is under construction. Please let Dr. Kirwan know if there are missing items or trainings you'd like to see here. 
   
