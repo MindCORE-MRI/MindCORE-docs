@@ -11,7 +11,9 @@ To request an account on Calpendo:
 -------
 
 1. `Go to upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com>`_ and click on "Register new user".
+
 .. figure:: ../images/Calpendo_login.png
+
 2. Click on "Create a local account"
 3. Choose a login name and password. Fill out the information for your name and email address.
 4. Click "Register" to submit the registration application. New user requests are typically approved within a business day.
