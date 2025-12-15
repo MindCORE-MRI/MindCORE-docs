@@ -4,10 +4,11 @@ General Research Policies and Procedures
 
 .. _scan-rates:
 
-Scan Rates
+Scan and Equipment Rates
 ----------
 
-MRI scan rates for the 2025-2026 academic year are **$625/hr**. Billing occurs for booked time through the Calpendo system.
+Rates for MRI scans and use of the EEG equipment are updated each academic year. Please see the main MindCORE Neuroimaging Facility `website <https://mindcore.sas.upenn.edu/neuroimaging-facility/for-researchers/>`_ for current rates. Billing occurs for booked time through the `Calpendo system <https://upenn-mindcore.calpendo.com>`_. There is currently no charge to book/use the mock scanner, behavioral testing rooms, or conference room. Please reserve these resources through the Calpendo scheduler.
+
 
 .. _general-safety:
 
@@ -36,7 +37,7 @@ MRI Trained Users
 
 Anyone wishing to operate the scanner and have scanner suite access must complete all safety training and a certifying test after attending and participating in at least 10 scan sessions and demonstrating proficiency in scanning procedures.
 
-See the  :ref:: `User Access and Training Guidelines <how-tos/getting_started>`_ for more information.
+See the :ref:`User Access and Training Guidelines <how-tos/getting_started>`_ for more information.
 
 .. _scan-buddies:
 
@@ -132,7 +133,7 @@ Scheduling
 
 The Facility uses Calpendo for scheduling and logging MRI resources:  `https://upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com>`_
 
-To request a Calpendo account, see :ref: `this how-to <how-tos/calpendo_signup>`. 
+To request a Calpendo account, see :ref:`this how-to <how-tos/calpendo_signup>`_. 
 
 MRI scans must be cancelled **at least 24 hours in advance** to avoid charges. Scans cancelled within 24 hours will be charges a $100 cancellation fee.
 
