@@ -24,7 +24,7 @@ Procedure
 
 	.. image:: ../images/backup2.png
 
-	* You can check on the status of your transfer by selecting the "Jobs" menu, then the "Network" tab on the left
+	* You can check on the status of your transfer by selecting the "Jobs" menu, then the "Network" tab on the left. Any warnings or errors will be displayed in the "Message" section.
 
 	.. image:: ../images/backup3.png
 
