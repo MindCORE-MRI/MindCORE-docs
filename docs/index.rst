@@ -23,6 +23,7 @@ Contents
    :maxdepth: 1
    :caption: MRI
 
+   how-tos/scanbuddy
    how-tos/MRI_eyetracker_setup
 
 .. toctree::
