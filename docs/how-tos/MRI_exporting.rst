@@ -15,17 +15,17 @@ Procedure
 
 .. image:: ../images/patient_browser.png
 
-* In the Patient Browser window, click on your participant in the list on the left to select the whole scan session. 
+* In the Patient Browser window, click on your participant in the list on the left to select the entire scan session. 
 * Select "Export" from the options at the upper right
 
 .. image:: ../images/export1.png
 
-* Make sure your USB drive is plugged into the console computer. If it is, you should be able to select it as the "Destination" in the pop-up window.
+* Make sure your USB drive is plugged into the console computer. If it is, you should be able to select it as the "Destination" in the pop-up window by clicking "Destination".
 
 .. image:: ../images/export2.png
 
 * Make sure the export options are as in the image above: "Compressed" and "Create DICOM File System" should **not** be selected. Make sure "Enhanced" is selected for "Image Conversion" and do not select "Anonymize". If everything is correct, click on "Export". 
 
-* You can check on the status of your export in the "Jobs" viewer by selecting the "Media" tab at the left.
+* You can check on the status of your export by navigating to the "Jobs" viewer and then selecting the "Media" tab at the left.
 
 * It is not necessary to eject the USB drive before disconnecting it from the console computer.
