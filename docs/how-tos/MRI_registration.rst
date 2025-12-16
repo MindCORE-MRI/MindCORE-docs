@@ -10,15 +10,15 @@ Procedure
 
 * From the Home screen on the MRI scanner console, select "Examination"
 
-.. image:: images/siemens_home_screen.png
+.. image:: ../images/siemens_home_screen.png
 
 * Choose "Register Patient" in the upper right corner
 
-.. image:: images/register1.png
+.. image:: ../images/register1.png
 
 * Required items on the registration screen are highlighted in orange.
 
-.. image:: images/register2.png
+.. image:: ../images/register2.png
 
 * Use the following procedures for filling out the required fields on the registration card:
 	* In the "Last Name" field, enter your PI's last name, underscore, study name, underscore, and subject ID. So, if this were a subject for my study on memory retrieval, I might use something like ``Kirwan_MemRet_sub-01``. **Do not use the participant's actual name.**
