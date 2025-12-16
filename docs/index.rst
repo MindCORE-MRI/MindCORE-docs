@@ -9,6 +9,7 @@ Contents
 .. toctree::
    getting_started
    policies_procedures
+   project_requests
    stability
 
 .. toctree::
