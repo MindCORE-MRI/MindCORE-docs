@@ -17,6 +17,7 @@ Contents
 
    how-tos/calpendo_signup
    how-tos/project_requests
+   how-tos/screening
    
 .. toctree::
    :maxdepth: 1
