@@ -9,7 +9,6 @@ Contents
 .. toctree::
    getting_started
    policies_procedures
-   project_requests
    stability
 
 .. toctree::
@@ -17,6 +16,7 @@ Contents
    :caption: General
 
    how-tos/calpendo_signup
+   how-tos/project_requests
    
 .. toctree::
    :maxdepth: 1
