@@ -37,7 +37,7 @@ MRI Trained Users
 
 Anyone wishing to operate the scanner and have scanner suite access must complete all safety training and a certifying test after attending and participating in at least 10 scan sessions and demonstrating proficiency in scanning procedures.
 
-See the :ref:`User Access and Training Guidelines <how-tos/getting_started>`_ for more information.
+See the :doc:`User Access and Training Guidelines <how-tos/getting_started>`_ for more information.
 
 .. _scan-buddies:
 
@@ -133,7 +133,7 @@ Scheduling
 
 The Facility uses Calpendo for scheduling and logging MRI resources:  `https://upenn-mindcore.calpendo.com <https://upenn-mindcore.calpendo.com>`_
 
-To request a Calpendo account, see :ref:`this how-to <how-tos/calpendo_signup>`_. 
+To request a Calpendo account, see :doc:`this how-to <how-tos/calpendo_signup>`_. 
 
 MRI scans must be cancelled **at least 24 hours in advance** to avoid charges. Scans cancelled within 24 hours will be charges a $100 cancellation fee.
 
