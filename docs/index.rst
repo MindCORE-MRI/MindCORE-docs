@@ -26,6 +26,8 @@ Contents
    how-tos/scanbuddy
    how-tos/MRI_registration
    how-tos/MRI_backup
+   how-tos/MRI_exporting
+   how-tos/MRI_closing
    how-tos/MRI_eyetracker_setup
 
 .. toctree::
