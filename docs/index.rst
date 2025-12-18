@@ -18,6 +18,7 @@ Contents
    how-tos/calpendo_signup
    how-tos/project_requests
    how-tos/screening
+   how-tos/workday_certificates
    
 .. toctree::
    :maxdepth: 1
