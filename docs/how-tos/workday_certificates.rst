@@ -21,8 +21,6 @@ Procedure
 4. Click OK. The title and date of the course is displayed.
 
 5. *If no results appear*, click the **Change Selection** icon in the blue banner to change the course title or date information. 
-.. image:: ../images/workday_change_parameters_button.png
-   :alt: Image of the Workday icon for Change Parameters or Change Selections. It looks like three buttons to slide up and down.
 
 6. When the result is correct, click **Print**. Wait for the certificate to load.
 
@@ -30,4 +28,4 @@ Procedure
 
 
 
-.. footer:: Source: `https://workday.upenn.edu/training/tip-sheets/self-service-generate-and-print-workday-learning-certificates-completion <https://workday.upenn.edu/training/tip-sheets/self-service-generate-and-print-workday-learning-certificates-completion>`_ 
+Source: `https://workday.upenn.edu/training/tip-sheets/self-service-generate-and-print-workday-learning-certificates-completion <https://workday.upenn.edu/training/tip-sheets/self-service-generate-and-print-workday-learning-certificates-completion>`_ 
