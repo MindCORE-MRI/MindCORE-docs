@@ -13,7 +13,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: General
+   :caption: How-tos: General
 
    how-tos/calpendo_signup
    how-tos/project_requests
@@ -22,7 +22,7 @@ Contents
    
 .. toctree::
    :maxdepth: 1
-   :caption: MRI
+   :caption: How-tos: MRI
 
    how-tos/scanbuddy
    how-tos/MRI_registration
@@ -33,7 +33,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: EEG
+   :caption: How-tos: EEG
 
    how-tos/EEG_cap_gel
 
