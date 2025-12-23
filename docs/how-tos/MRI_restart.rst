@@ -32,9 +32,14 @@ Procedure: Starting the scanner
 If you are doing a full shut-down/restart cycle or if the scanner has been shut down prior to your scan (e.g., it was shut down overnight or over the weekend), follow this procedure to start the scanner. 
 
 * Press the "System On" button on the panel with the quench button.
-.. image:: ../images/MRI_quench_panel.jpeg
+.. image:: 
+   ../images/MRI_quench_panel.jpeg
+   :scale: 50 %
 
 * Wait about 15 minutes while the system goes through the boot up process.
 * That's it. When the scanner is ready to scan, there will be a green check mark in the "System Check" section of the Home Screen.
-.. image:: ../images/siemens_home_screen.png
+.. image:: 
+   ../images/siemens_home_screen.png
+   :scale: 50 %
+   
 
