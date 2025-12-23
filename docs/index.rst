@@ -30,6 +30,7 @@ Contents
    how-tos/MRI_exporting
    how-tos/MRI_closing
    how-tos/MRI_eyetracker_setup
+   how-tos/MRI_restart
 
 .. toctree::
    :maxdepth: 1
