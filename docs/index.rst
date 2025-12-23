@@ -37,6 +37,7 @@ Contents
    :caption: How-tos: EEG
 
    how-tos/EEG_cap_gel
+   how-tos/EEG_noise
 
 
 
