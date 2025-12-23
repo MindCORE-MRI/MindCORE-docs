@@ -20,5 +20,5 @@ Best Practices
    :width: 360
    :height: 640
    :autoplay:
-   :nocontrols:
+
 *Note*: The video demonstrates the electromagnetic noise emitted by desktop speakers. The instrument depicted is a gaussometer, which is displaying the magnetic field in micro tesla (1 µT = 10 milligaus). According to `this documentation <https://youtu.be/xnwvtR6uVpc?si=CgY-VPddLIPe4NLi>`_, a reasonable noise threshold is 0.4 µT. As you can see in the video, readings next to the speaker are well above this threshold, but the values fall off dramatically with distance (actually with the square of the distance). Conclusion: if your subject is positioned well back from the speakers you should not see appreciable noise from the speakers in your data.
