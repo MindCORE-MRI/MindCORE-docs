@@ -36,7 +36,9 @@ Contents
    :maxdepth: 1
    :caption: How-tos: EEG
 
+   how-tos/EEG_scheduling
    how-tos/EEG_cap_gel
+   how-tos/EEG_recording
    how-tos/EEG_noise
 
 
