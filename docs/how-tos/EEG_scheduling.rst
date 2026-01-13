@@ -30,7 +30,9 @@ General Tips and Instructions
 * Use your own PennKey and password to sign in to the stimlus control computer. It is a good idea to install the version of PsychoPy that you need for your experiment under your personal profile. This prevents version conflicts between different users' experimental paradigms. This also allows you to save behavioral data under your own profile. **Do not save any identifiable subject information on this computer**.
 
 **KVM Switch**
-*The monitor, keyboard, and mouse in the EEG recording room may be switched between the stimulus control and EEG recording computer by operating the KVM switch in the EEG control room. It can be helpful to display the EEG recording computer in the recording room during cap setup so the experimenter can see impedence values. 
+*The monitor, keyboard, and mouse in the EEG recording room may be switched between the stimulus control and EEG recording computer by operating the KVM switch in the EEG control room. It can be helpful to display the EEG recording computer in the recording room during cap setup so the experimenter can see impedence values.
+
 .. image:: ../images/EEG_switch.jpg
+
 * Make sure the switch is powered on. Use the buttons marked "Stim" and "Rec" to select the stimulus control and recording computers, respectively.
 
