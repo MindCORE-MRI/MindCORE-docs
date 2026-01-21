@@ -9,7 +9,6 @@ Jump to
 
 * :ref:`abstract`
 * :ref:`introduction`
-* :ref:`equipment`
 * :ref:`procedure`
 * :ref:`verification-of-stimulus-timing`
 * :ref:`troubleshooting`
@@ -41,73 +40,6 @@ The present protocol provides a detailed step-by-step procedure for recording sc
 
 ----
 
-.. _equipment:
-
-Equipment
----------
-
-Electrode Application Materials
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. Adhesive electrode collars 
-2. Alcohol pads 
-3. Blunt syringe tips 
-4. EEG electrodes (Brain Products actiCAP Slim Active Electrodes, 32-channel bundles)
-5. EEG caps (Brain Products actiCAP Snap Caps, range of sizes)
-6. Electrode gel (EasyCap SuperVisc (1000gr.), product code: V16)
-7. Nitrile gloves (powder-free)
-8. Hair dryer
-9. Plastic combs
-10. Plastic syringes (10 cc, Luer-lock)
-11. Scissors
-12. Soft measuring tape
-
-EEG Recording Equipment
-~~~~~~~~~~~~~~~~~~~~~~
-
-1. EEG recording system
-
-   a. actiCHamp amplifier
-   b. Battery and charger
-   c. Recorder software
-   d. LCD monitors
-   e. USB range extender and fiber optic cable
-   f. Windows-compatible PC with parallel port
-
-2. Recording room equipment
-
-   * Height-adjustable chair and table
-   * Equipment cart
-   * Temperature control system
-
-3. Stimulus presentation system
-
-   * Audio amplifier
-   * DisplayPort switch
-   * Dual LCD monitors
-   * Presentation computer
-
-4. Equipment testing
-
-   * Non-iodized salt
-   * Photosensor
-   * Plastic bucket
-
-EEG Clean Up
-~~~~~~~~~~~
-
-1. Bleach spray
-2. Plastic tub for disinfectant
-3. Hair dryer
-4. Hamper for towels 
-5. Plastic colander
-6. Regular sink
-7. Shampoo
-8. Toothbrush
-9. Towels
-
-----
-
 .. _procedure:
 
 
@@ -117,22 +49,25 @@ Procedure
 Prior to Arrival
 ~~~~~~~~~~~~~~~~
 
-1. Send a reminder email 1-2 days before the study. Include the time, date, and `location of the testing session <https://mindcore.sas.upenn.edu/neuroimaging-facility/location-and-directions/>`_, as well as information about the general testing procedure (e.g., what to expect, how long it will take, etc.). Include a list of reminders, such as: “The procedures require us to put gel in your hair, which may get on your clothing. Do not wear any clothing that may be harmed by the gel, or you would not wish to get gel on (although the gel is water soluble). If you have an important event immediately after the testing session, it may be best to reschedule. Participants need to be completely awake during the experiment, so please have suficient amount of sleep before arriving. Arrive with clean, dry hair, and remove all ponytails, braids, wigs, extensions, hair clips, hats, etc., prior to arrival.”
+1. Send a reminder email or text 1-2 days before the study. Include the time, date, and `location of the testing session <https://mindcore.sas.upenn.edu/neuroimaging-facility/location-and-directions/>`_, as well as information about the general testing procedure (e.g., what to expect, how long it will take, etc.). Include a list of reminders, such as: “The procedures require us to put gel in your hair, which may get on your clothing. Do not wear any clothing that may be harmed by the gel, or you would not wish to get gel on (although the gel is water soluble). If you have an important event immediately after the testing session, it may be best to reschedule. Participants need to be completely awake during the experiment, so please have suficient amount of sleep before arriving. Arrive with clean, dry hair, and remove all ponytails, braids, wigs, extensions, hair clips, hats, etc., prior to arrival.”
 
-   a. If a participant arrives wearing inappropriate clothing, disposable scrubs are available for them to wear over the clothing to avoid damage.
+.. Note::
+	If a participant arrives wearing inappropriate clothing, disposable scrubs are available for them to wear over the clothing to avoid damage.
 
-2. Lay out as much of the equipment prior to the subject’s arrival as you can. This includes the SuperVisc gel, syringes, syringe tips, towels, electrode collars, gloves, tape measure, and alcohol wipes (see Figure 1).
+2. Lay out as much of the equipment prior to the subject’s arrival as you can. This includes the SuperVisc gel, syringes, syringe tips, towels, electrode collars, gloves, tape measure, and alcohol wipes (see Figure 1). Notify Dr. Kirwan if any of the consumable supplies are low.
 
-.. image:: ../images/EEG_proc_fig1.png
+.. figure:: ../images/EEG_proc_fig1.png
+
+    Figure 1. Electrode application materials laid out prior to subject’s arrival.
 
 3. Unwrap a sterile Luer-Lock syringe.
-
 4. Use the syringe to draw up approximately 10 ml of gel from the SuperVisc jar, then screw on the syringe tip. Gently push down on the plunger to squeeze out any air bubbles over the sink or trash can. If you are working with a partner, it can be more eficient to prepare two syringes (each with half as much gel), rather than a single syringe.
 
-   a. 10 ml of gel should be enough for 32 electrodes. If you are using 64 electrodes, you can either refill the syringe or prepare additional syringes in advance. If refilling the syringe, be sure to maintain proper sanitation by using a clean, uncontaminated syringe to transfer the gel; do not use a syringe that has previously contacted the subject’s scalp.
-   b. Any Luer Lock syringes and syringe tips that come in contact with the subject must be discarded or disinfected before re-use.
+.. Note::
+	* 10 ml of gel should be enough for 32 electrodes. If you are using 64 electrodes, you can either refill the syringe or prepare additional syringes in advance. If refilling the syringe, be sure to maintain proper sanitation by using a clean, uncontaminated syringe to transfer the gel; do not use a syringe that has previously contacted the subject’s scalp.
+	* Any Luer Lock syringes and syringe tips that come in contact with the subject must be discarded or disinfected before re-use.
 
-5. If the subject has participated before and you know their cap size, :ref:`Electrode Application <electrode_application>`_ steps 6-9 can also be completed prior to arrival.
+5. If the subject has participated before and you know their cap size, :ref: `electrode-application` steps 6-9 can also be completed prior to arrival.
 
 .. _electrode-application:
 
@@ -142,27 +77,30 @@ Electrode Application
 1. Obtain consent according to the procedure approved by the Institutional Review Board.
 2. Seat the subject in a comfortable low-backed chair in the prep area.
 3. Have the subject comb their hair using a plastic comb, instructing them to concentrate on their scalp. The purpose is to loosen up some of the dead skin on the scalp, which will help reduce electrode impedances.
-   
-   a. If the subject arrives with wet hair or is sweaty, have them dry their hair with the hair dryer before beginning.
-   b. If your subject arrives with a ponytail, braid, wig, barrettes, hair clips, or extensions of any kind, they must be removed before continuing.
+
+.. Note::
+   * If the subject arrives with wet hair or is sweaty, have them dry their hair with the hair dryer before beginning.
+   * If your subject arrives with a ponytail, braid, wig, barrettes, hair clips, or extensions of any kind, they must be removed before continuing.
 
 4. Put on a pair of gloves.
-5. Measure the circumference of the subject’s head (in cm) using a soft tape measure, using the nasion and inion to define the measurement axis (see Figure 2). Select the cap that best fits your subject.
-   
-   a. See :ref: `Common Electrode Application Issues <common-electrode-issues>`_ for more information on caps, cap sizes, and common fitting issues.
+5. Measure the circumference of the subject’s head (in cm) using a soft tape measure, using the nasion and inion to define the measurement axis (see Figure 2). Select the cap that best fits your subject. See :ref: `common-electrode-issues` for more information on caps, cap sizes, and common fitting issues.
 
-.. image:: ../images/EEG_proc_fig2.png
+.. figure:: ../images/EEG_proc_fig2.png
 
-6. Get the electrode set(s).
-   
-   a. See Cap and Electrode Set Up for more information on how EasyCap caps are designed to be modular, allowing both 32- and 64-channel recordings from the same cap.
+   Figure 2. Location of the nasion (panel A) and the inion (panel B) used to measure the circumference of the subject’s head (panels C, D, & E) to determine which cap size is appropriate.
 
+6. Get the electrode set(s). 
 7. Drape the electrode set over your neck with the plastic clip against your back. This should result in electrodes 1-16 on the left, and 17-32 on the right. This mirrors the way the subject will be wearing the electrode set and will help minimize tangling. The electrodes should be placed in the cap prior to putting the cap on the subject’s head. If using two sets,finish placing the first set before starting on the second
 set.
 8. Carefully slide the electrodes (except for the external electrodes) into the cap with the wires pointing towards the back of the cap (see Figure 3). This reduces tension on the wires during the recording and minimizes tangling. The bottom of the electrodes (wire end) should be slid into the top of the holder in a downward motion, not pushed in with an upwards motion from the bottom of the holder (see Figure 4). Be sure to push the electrodes all the way into the holders; they should make an audible ‘snap’ noise (although this snapping noise becomes less noticeable over time).
 
-.. image:: ../images/EEG_proc_fig3.png
-.. image:: ../images/EEG_proc_fig4.png
+.. figure:: ../images/EEG_proc_fig3.png
+
+   Figure 3. Prepped electrode cap with wires properly pointing toward the back of the head, as viewed from the back (panel A) and from the side (panel B).
+
+.. figure:: ../images/EEG_proc_fig4.png
+
+   Figure 4. Illustration of the direction the electrodes should be slid into the electrode holders.
 
 9. Slide the Ground electrode into the cap, with the wire pointing towards the back of the cap.
 10. Remove the electrodes from around your neck and clip the splitter box to the back of the subject’s shirt. Gently lay the cap onto the counter behind the subject or let it hang loosely down the subject’s back.
@@ -174,14 +112,16 @@ eye.
 
 12. Isolate the five external electrodes from the electrode bundle. One at a time, carefully remove an electrode collar from the strip and place it over the center of the electrode, with the tail of the collar pointing down toward the wire (see Figure 5). Leave the top cover of the collar on; this will help prevent it from sticking to your glove until you are ready to place the electrode on the subject.
 
-   a. See Cap and Electrode Set-Up for more information on how to configure the electrode bundle to include external electrodes.
+.. figure:: ../images/EEG_proc_fig5.png
 
-.. image:: ../images/EEG_proc_fig5.png
+   Figure 5. Properly placed electrode collar on an external electrode, as viewed from the top (panel A) and bottom (panel B) of the electrode.
 
 13. Completely fill the hole in the electrode collar with gel, making sure not to scrape the electrode pellet with the tip of the syringe (which can damage the pellet).
 14. When ready to place an external electrode, remove the top of the collar and place the electrode on the prepared area. Repeat for all external electrodes. See Figure 6 for the proper placement of each external electrode described below.
 
-.. image:: ../images/EEG_proc_fig6.png
+.. figure:: ../images/EEG_proc_fig6.png
+
+   Figure 6. Properly placed Lower VEOG, Right HEOG, and Left HEOG external electrodes, as viewed from the front (panel A) and the side (panel B).
 
 	a. HEOG Left & Right: Place in line with the subject’s pupil on the outer canthus of each eye, centered 1-2 cm of the distance between the canthus and the temple (avoid placing directly on the orbital bone). The electrodes should be oriented vertically with the wires pointing down to minimize strain on the wires. These electrodes may wind up being under the edge of the cap once the cap is placed on the head, but that is acceptable.
 	b. VEOG Lower: Place below the right eye in line with the subject’s pupil. The electrode needs to be far enough below the eye that it does not interfere with the subject’s vision, but not so low that it does not detect blink activity. A good estimate for how far down to go is roughly in line with the subject’s right nostril. The electrode should be oriented horizontally with the wire pointing towards the subject’s right ear. Once placed, make sure the electrode is not interfering with the subject’s vision when they look straight ahead, and it is not in danger of falling off when the subject moves their cheek (as when talking). If so, remove and place again.
@@ -191,49 +131,44 @@ eye.
 16. Use the soft measuring tape to make sure the cap is centered. The Cz (vertex) electrode holder should be exactly half way between the nasion and inion and exactly halfway between the left and right preauricular points. To readjust the cap, use both hands to slide/push the cap into place; avoid grabbing individual electrode holders and tugging or pulling the cap into place. This will stretch out the cap and is bad for the electrodes. Once the cap is centered front to back, visually ensure the cap is centered side to side. Re-adjust as necessary.
 17. Once the cap is centered, have the subject close the chin strap to prevent the cap from moving. If the subject finds the chin strap uncomfortable or itchy, place a small piece of sterile gauze between the strap and the subject’s chin.
 
-	a. Avoid making the chin strap too tight; you do not want the subject to feel like they are choking.
+.. Note::
+	Avoid making the chin strap too tight; you do not want the subject to feel like they are choking.
 
 18. Begin filling each electrode with gel. To do so, hold the electrode in place with the index finger and thumb of your non-dominant hand. With your dominant hand, insert the syringe tip through the notch in the top of the electrode. Make sure the syringe is contacting the scalp, then swirl it around 3-4 times in a wide circular motion, pushing the hair out of the way and gently removing the top layer of dead skin cells. To fill the electrode with gel, push down on the plunger while slowly pulling the syringe up and out of the electrode. This creates a nice column of gel rather than a large glob at the bottom, reducing the potential for bridging (especially in high density recordings). Fill the electrodes in a systematic order to reduce the chances of skipping electrodes. Avoid placing your hand on top of any previously filled electrodes while holding the one you are currently working on in place. Be sure to fill the Ground electrode.
 
-	a. The syringe tips can be intimidating to subjects. It is good to show the subjects that the syringes are not actually sharp by poking the palm of your glove-covered hand a few times. Let them know that the procedure should not be painful in any way, and if it becomes uncomfortable at any time they should let you know immediately. FP1, Fz, and FP2 are frequently over bare skin; these locations can be sensitive, so take extra precaution when filling these electrodes.
+.. Note::
+	The syringe tips can be intimidating to subjects. It is good to show the subjects that the syringes are not actually sharp by poking the palm of your glove-covered hand a few times. Let them know that the procedure should not be painful in any way, and if it becomes uncomfortable at any time they should let you know immediately. FP1, Fz, and FP2 are frequently over bare skin; these locations can be sensitive, so take extra precaution when filling these electrodes.
 
 Running the Subject
 ~~~~~~~~~~~~~~~~~~~
 
 1. When all electrodes are prepped, take the subject into the testing room, leaving their backpack, purse,
 cellphone, etc. outside the testing room.
-
-	a. See Testing Room Set-Up for details on optimal testing room set-up and corresponding figures.
-
 2. Have the subject sit with their feet flat on the fioor and their bottom all the way to the back of the chair. Adjust the chair height so the subject is sitting with their knees bent at a comfortable angle (~90°), and then adjust the height of the monitor on the height-adjustable table so that the center of the screen is
 level with their eye gaze. Make sure the subject is not seated too near external speakers (See `Avoiding noise in the EEG recording room <../how-tos/EEG_noise>`_). 
 3. Plug the battery into the amplifier.
-4. Plug the electrode set(s) into the amplifier by lining up the white triangle on the connecter pin with the white triangle on the amplifier port. Keep the electrode cables from hanging at odd angles or stretching to reach the subject when plugged into the amplifier; this can cause artifacts during the recording and places unnecessary mechanical stress on the equipment (see Figure 7). See Testing Room Set-Up for tips on how to prevent this.
+4. Plug the electrode set(s) into the amplifier by lining up the white triangle on the connecter pin with the white triangle on the amplifier port. Keep the electrode cables from hanging at odd angles or stretching to reach the subject when plugged into the amplifier; this can cause artifacts during the recording and places unnecessary mechanical stress on the equipment (see Figure 7). See :ref: `testing-room-setup` for tips on how to prevent this.
 
-.. image:: ../images/EEG_proc_fig7.png
+.. figure:: ../images/EEG_proc_fig7.png
+
+   Figure 7. Illustration of optimal amplifier placement (panel A) and unstrained cables connecting the electrodes to the amplifier (panel B).
 
 5. Plug the Ground electrode into the port labeled ‘GND’ on the front right side of the amplifier, making sure to line the pins up correctly; the notch in the plastic housing should be facing up.
 6. Open Recorder on the data acquisition PC. Load the correct configuration file, then select ‘Impedance
 Mode.’
-
-	a. See Recording Software Set-Up for more details on different configuration file options and optimal Recorder settings.
-
 7. Use the DisplayPort switch to make the subject testing room monitor a clone of the data acquisition monitor.
 8. Manually set the impedance threshold to "75." This will ensure that any electrodes over 50 kΩ turn red
-(see Figure 8).
 
-.. image:: ../images/EEG_proc_fig8.png
+.. Note::
 
-	a. See https://pressrelease.brainproducts.com/active-electrodes-walkthrough-slim/#2g for details on optimal impedance thresholds.
+	See `here <https://pressrelease.brainproducts.com/active-electrodes-walkthrough-slim/#2g>`_ for details on optimal impedance thresholds.
 
 9. Make sure all impedances are below 50 kΩ. For any electrodes with higher impedances, reduce the impedance by inserting your syringe tip, making sure it is contacting the scalp, then re-swirling it a few times. If that does not work, try adding a bit more gel. Do not add more gel first, as this increases your risk of bridging between electrodes, especially in high density recordings. For experiments in which data quality is exceptionally important (e.g., ERP decoding experiments), reduce the impedances to <10 kΩ when possible without causing significant discomfort.
 
-	a. See Common Issues in Impedance Mode for more details on common impedance issues and how to solve them.
+.. Note::
+	See :ref: `common-impedance-issues` for more details on common impedance issues and how to solve them.
 
 10. Once the impedances are all below the desired level, hit ‘Default Mode’ and check the EEG signals. It is still possible to have noisy electrodes even with low impedances. Adjust as necessary.
-
-	a. See Common Issues in Impedance Mode for examples.
-
 11. Show the subject their EEG and EOG signals. Describe common movement artifacts, how to prevent them, and why they matter. This helps the subject understand why they are being asked to minimize certain behaviors and allows you to ensure that all artifacts are easily identified with the placement of the electrodes.
 
 	a. Eyeblinks: Ask subjects to look at the center of the recording screen and to blink 4-5 times in rapid succession. This shows them what their blinks look like and, depending on your task, why you may need them to withhold their blinks until certain time points (e.g., after their response on each trial). Check to make sure the blinks are appearing in the proper channels; there should be little to no blink activity detected in the HEOG channels. If you see large blink activity in either HEOG channel, you will need to remove the electrode and place it more evenly in line with the subject’s canthus. Make sure the polarity of the VEOG Lower electrode is correct (e.g., negative) and that the signal is the expected size. It is possible that an electrode was placed in the wrong location (for example HEOG Left in VEOG Lower’s place).
@@ -244,16 +179,19 @@ Mode.’
 
 12. Check the temperature of the room and the lighting level. Adjust as necessary.
 
-	a. See Testing Room Set-Up for more information on recommended temperature and lighting levels.
+.. Note::
+	See :ref: `testing-room-setup` for more information on recommended temperature and lighting levels.
 
 13. Explain the audio/visual monitoring set up to the subject.
 
-	a. See Testing Room Set-Up for more information on recommended audio/visual set-up.
+.. Note::
+	See :ref: `testing-room-setup` for more information on recommended audio/visual set-up.
 
 14. When ready to begin the experiment, use the DisplayPort switch to change back to a clone of the stimulus presentation computer.
 15. Explain the task to the participant. Reiterate any special EEG artifact instructions like maintaining fixation or withholding blinks until a certain time. Assure the subject that there are many breaks throughout the experiment and they are free to move around as much as they need to during those portions of the experiment. However, before beginning the task again, they must return to a still and relaxed position.
 
-	a. See Optimal Task Settings for more details on recommended break settings.
+.. Note::
+	See :ref: `optimal-task-settings` for more details on recommended break settings.
 
 16. To begin recording the EEG, hit the ‘Start Recording’ button. Start your recording approximately 10 seconds before the task begins and end the recording approximately 10 seconds after the task ends. This minimizes edge artifacts when filtering the EEG data ofiine.
 17. Monitor the EEG data closely at all times. Do not read books or journal articles, do homework, look at web sites, read email, send texts, etc. In most cases, the experimenter should not have their cell phone nearby, which reduces the temptation to engage in distracting activities.
@@ -279,22 +217,17 @@ Clean Up
 7. Once all of the electrodes are removed, set the cap aside and clip the electrode set(s) to the back of your shirt (this ensures the splitter box(es) won’t get wet).
 8. Working in small bundles of eight, hold the electrodes in a tight clump with the notch pointing upward. Rinse the top of the bundle with cool or lukewarm water for several seconds, then doublecheck to make sure that all of the gel is removed. Repeat with the rest of the electrodes. If necessary, hold each electrode under the faucet and gently rub the notch of the electrode with a soft toothbrush. When done, rinse off the wires by gently rubbing any wet patches with a cloth towel or paper towel.
 
-	a. If you have a metal sink, you will need to place something in the bottom of the sink to prevent the electrodes from contacting the metal, as this can damage the electrodes. A plastic colander works well for this.
+.. Note::
+	As we have a metal sink, you will need to place something in the bottom of the sink to prevent the electrodes from contacting the metal, as this can damage the electrodes. The plastic colander works well for this.
 
 9. Disinfect the electrodes by submerging them in fully concentrated Envirocide for 3 minutes (using the timer to ensure the correct duration). Rinse thoroughly with water to remove all of the Envirocide when done.
-10. Hang the electrodes on the top arm of a wall hook with the clip facing up, the flat part of the splitter box facing down, and the ribbon cable pointing away from the wall. They should balance perfectly this way, with electrodes 1-16 hanging to the left and electrodes 17-32 hanging to the right. Hang the Ground electrode over the bottom arm of the hook (see Figure 9).
-
-.. image:: ../images/EEG_proc_fig9.png
-
+10. Hang the electrodes on top of the wall hooks with the clip facing up, the flat part of the splitter box facing down, and the electrodes away from the sink (i.e., toward the door). Hang the Ground electrode over the top of the hooks as well.
 11. To clean the cap, turn it inside out and go over each hole with lukewarm water. When done, turn the cap right side out and rinse off the outside of the cap. Do not use hot water to clean the cap; use only room temp or cold water to prevent damage to the elastic in the cap.
 12. Disinfect the cap by submerging it in Envirocide for 3 minutes. Rinse thoroughly with water when done. The water should run clear once all of the Envirocide is removed. The water will look ‘soapy’ if there is still Envirocide left in the cap.
-13. Hang the cap to dry on a wall hook (see Figure 10) or place on a small fan to dry. Never dry with the hair dryer.
-
-.. image:: ../images/EEG_proc_fig10.png
-
+13. Hang the cap to dry on a wall hook or place on a small fan to dry. 
 14. Disinfect the comb used at the beginning of the experiment by submerging it in Envirocide for 3 minutes. Rinse with water when done and remove any hair left in the comb.
 15. Clean up the prep station, wipe down the sink, and dry off the chair. Hang the dirty towels on the edge of the hamper to dry and throw away any leftover subject snacks, electrode stickers, alcohol pad wrappers, etc.
-16. Wash the towels with bleach and fragrance-free laundry detergent.
+16. Place dirty towels in the hamper.
 
 ----
 
@@ -308,11 +241,13 @@ Verification of Stimulus Timing
 2. Connect the photosensor to one of the auxiliary inputs on the amplifier unit.
 3. Using an electrode collar, attach the photosensor to the subject’s monitor at the location on the screen where the stimuli will appear.
 
-	a. In experiments with multiple stimulus locations, multiple timing tests (or multiple photosensors) may be required.
+.. Note::
+	In experiments with multiple stimulus locations, multiple timing tests (or multiple photosensors) may be required.
 
 4. Open Recorder and begin recording. The scale of the photosensor output is typically much larger than standard EEG; changing the scale of the recording from µV to mV is often necessary to see the photosensor output. You should see a pulse of activity in the photosensor signal during each stimulus onset and offset for stimuli presented at the location on the screen where the photosensor is positioned (stimuli that are presented elsewhere on the screen will not be detected).
 
-	a. For this type of testing, it is helpful to have a configuration file that displays and records only the auxiliary channel representing the photosensor.
+.. Note::
+	For this type of testing, it is helpful to have a configuration file that displays and records only the auxiliary channel representing the photosensor.
 
 5. The timing of the photosensor signal is then measured ofiine relative to the timing of each event code. If there is a constant delay (e.g., always 20±1 ms), the time of each event code can be adjusted during the offliine data processing procedures by this amount to align the event codes with the stimulus timing. If the delay is variable across events (e.g. 20-40 ms), this indicates a problem with the programming of the task or the stimulus presentation program and should be remedied before collecting data in the experiment.
 6. In some cases, it may be useful to permanently mount a photosensor to the subject’s video display to record the actual light produced by the display during every recording session. It should be placed at the far edge of the monitor so that it is not visually distracting to the participant. The task is then programmed so that a small “calibration” stimulus is presented at the location of the photosensor at the same time as each task stimulus. If desired, different intensities can be used for different stimuli, which provides an additional means of determining whether the event codes accurately indicate which stimulus was presented. A cardboard mask can be placed over the edge of the monitor so that the subject cannot see the photosensor or the calibration stimuli.
@@ -331,6 +266,8 @@ Common Electrode Application Issues
 
 1. Choosing a cap size: Round to the nearest size. You can also quickly try one of the two closest sizes on the subject; if you decide to change sizes, you must disinfect both caps.
 2. If the cap does not fit snugly in a certain area, but fits well overall, you can use Surgilast to help the cap fit better in the loose area. Simply cut off a 1-2 inch piece of the Surgilast fabric and stretch it around the appropriate section of the cap to hold it in place.
+
+.. _common-impedance-issues:
 
 Common Issues in Impedance Mode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -355,7 +292,8 @@ Examples of Commonly Recorded Artifactual Potentials
 2. If using the mastoids as your reference electrode(s), EKG artifacts may be present in the recording. To alleviate this problem, try placing the mastoid electrode(s) further up and closer toward the ear. To avoid this problem altogether, you may wish to use P9 & P10 (located adjacent to the mastoids) as the reference in a given study, or some other scalp sites located in that region (e.g., TP9 & TP10) if P9 & P10 are not in the recording montage. However, all subjects in a given study should have the same reference.
 3. It is common to have increased muscle noise at frontal and temporal electrodes (e.g., F7/F8, T7/T8, FP1/FP2). Sometimes this can be fixed by telling the subject to relax their face and neck, but for some subjects there is not much you can do about it. If the subject is wearing glasses, the frames of the glasses can sometimes press on these electrodes and cause increased muscle tension; try adjusting the glasses if possible.
 
-	a. Glasses should always be worn outside the cap.
+.. Note::
+	Glasses should always be worn outside the cap.
 
 4. If you see a certain kind of noise/artifact occurring in all the channels at the same time, rather than in a subset of the channels, the problem is in your reference electrode(s) or your ground electrode (if recording without a reference). Adjust as necessary.
 5. If you are recording EEG from an individual from a special population (e.g., children, patient populations), it may be more appropriate not to provide explicit artifact instructions. Asking participants to monitor their artifacts is essentially creating a dual task situation, which may impair performance more in a special population than in a control group. For more information, see `Kappenman & Luck (2016) <https://doi.org/10.1016/j.bpsc.2015.11.007>`_.
@@ -371,10 +309,14 @@ See `here <https://www.brainproducts.com/filedownload.php?path=products/brochure
 General Advice
 --------------
 
+.. _cap-and-electrod-setup:
+
 Cap and Electrode Set-Up
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 **Modular caps**: Brain Products caps are designed with a yellow/green color-coding system that allows 32- or 64-channel recordings to be obtained with the same set of electrode caps. For 32-channel recordings, one set of 32 electrodes is plugged into the cap using only the green electrode holders. For 64-channel recordings, sets of 32 electrodes are plugged into the cap, one using the yellow electrode holders and one using the green electrode holders. The holders are easily moved to different positions in the cap if a new electrode configuration is desired. The electrode sets are labeled with the numbers 1-32 to make the electrode sets interchangeable.
+
+.. _testing-room-setup:
 
 Testing Room Set-Up
 ~~~~~~~~~~~~~~~~~~
@@ -383,6 +325,7 @@ Testing Room Set-Up
 2. Optimal room temperature: The optimal temperature of the testing room is 68-72 degrees Fahrenheit, and this is especially important if high impedance recordings will be used (Kappenman & Luck, 2010). There is a thermostat in the testing room that you may need to adjust. **Do not run a fan inside the testing room during the recording**; this may produce large electrical artifacts.
 3. Optimal lighting level and how to regulate it: The optimal lighting level of the room for most experiments is ‘comfortably dim.’ This ensures that participants do not become too drowsy during the recording without getting glare from the monitor. There is a dimmer for this purpose on the light switch in the testing room. 
 
+.. _optimal-task-settings:
 
 Optimal Task Settings
 ~~~~~~~~~~~~~~~~~~~~~
