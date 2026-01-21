@@ -38,7 +38,7 @@ Contents
 
    how-tos/EEG_scheduling
    how-tos/EEG_general_tips
-   how-tos/EEG_cap_gel
+   how-tos/EEG_recording_protocol
    how-tos/EEG_recording
    how-tos/EEG_noise
 
