@@ -67,7 +67,7 @@ Prior to Arrival
 	* 10 ml of gel should be enough for 32 electrodes. If you are using 64 electrodes, you can either refill the syringe or prepare additional syringes in advance. If refilling the syringe, be sure to maintain proper sanitation by using a clean, uncontaminated syringe to transfer the gel; do not use a syringe that has previously contacted the subject’s scalp.
 	* Any Luer Lock syringes and syringe tips that come in contact with the subject must be discarded or disinfected before re-use.
 
-5. If the subject has participated before and you know their cap size, :ref: `electrode-application` steps 6-9 can also be completed prior to arrival.
+5. If the subject has participated before and you know their cap size, :ref:`electrode-application` steps 6-9 can also be completed prior to arrival.
 
 .. _electrode-application:
 
@@ -83,7 +83,7 @@ Electrode Application
    * If your subject arrives with a ponytail, braid, wig, barrettes, hair clips, or extensions of any kind, they must be removed before continuing.
 
 4. Put on a pair of gloves.
-5. Measure the circumference of the subject’s head (in cm) using a soft tape measure, using the nasion and inion to define the measurement axis (see Figure 2). Select the cap that best fits your subject. See :ref: `common-electrode-issues` for more information on caps, cap sizes, and common fitting issues.
+5. Measure the circumference of the subject’s head (in cm) using a soft tape measure, using the nasion and inion to define the measurement axis (see Figure 2). Select the cap that best fits your subject. See :ref:`common-electrode-issues` for more information on caps, cap sizes, and common fitting issues.
 
 .. figure:: ../images/EEG_proc_fig2.png
 
@@ -145,9 +145,9 @@ Running the Subject
 1. When all electrodes are prepped, take the subject into the testing room, leaving their backpack, purse,
 cellphone, etc. outside the testing room.
 2. Have the subject sit with their feet flat on the fioor and their bottom all the way to the back of the chair. Adjust the chair height so the subject is sitting with their knees bent at a comfortable angle (~90°), and then adjust the height of the monitor on the height-adjustable table so that the center of the screen is
-level with their eye gaze. Make sure the subject is not seated too near external speakers (See `Avoiding noise in the EEG recording room <../how-tos/EEG_noise>`_). 
+level with their eye gaze. Make sure the subject is not seated too near external speakers (See :doc:`../how-tos/EEG_noise`). 
 3. Plug the battery into the amplifier.
-4. Plug the electrode set(s) into the amplifier by lining up the white triangle on the connecter pin with the white triangle on the amplifier port. Keep the electrode cables from hanging at odd angles or stretching to reach the subject when plugged into the amplifier; this can cause artifacts during the recording and places unnecessary mechanical stress on the equipment (see Figure 7). See :ref: `testing-room-setup` for tips on how to prevent this.
+4. Plug the electrode set(s) into the amplifier by lining up the white triangle on the connecter pin with the white triangle on the amplifier port. Keep the electrode cables from hanging at odd angles or stretching to reach the subject when plugged into the amplifier; this can cause artifacts during the recording and places unnecessary mechanical stress on the equipment (see Figure 7). See :ref:`testing-room-setup` for tips on how to prevent this.
 
 .. figure:: ../images/EEG_proc_fig7.png
 
@@ -166,7 +166,7 @@ Mode.’
 9. Make sure all impedances are below 50 kΩ. For any electrodes with higher impedances, reduce the impedance by inserting your syringe tip, making sure it is contacting the scalp, then re-swirling it a few times. If that does not work, try adding a bit more gel. Do not add more gel first, as this increases your risk of bridging between electrodes, especially in high density recordings. For experiments in which data quality is exceptionally important (e.g., ERP decoding experiments), reduce the impedances to <10 kΩ when possible without causing significant discomfort.
 
 .. Note::
-	See :ref: `common-impedance-issues` for more details on common impedance issues and how to solve them.
+	See :ref:`common-impedance-issues` for more details on common impedance issues and how to solve them.
 
 10. Once the impedances are all below the desired level, hit ‘Default Mode’ and check the EEG signals. It is still possible to have noisy electrodes even with low impedances. Adjust as necessary.
 11. Show the subject their EEG and EOG signals. Describe common movement artifacts, how to prevent them, and why they matter. This helps the subject understand why they are being asked to minimize certain behaviors and allows you to ensure that all artifacts are easily identified with the placement of the electrodes.
@@ -180,18 +180,18 @@ Mode.’
 12. Check the temperature of the room and the lighting level. Adjust as necessary.
 
 .. Note::
-	See :ref: `testing-room-setup` for more information on recommended temperature and lighting levels.
+	See :ref:`testing-room-setup` for more information on recommended temperature and lighting levels.
 
 13. Explain the audio/visual monitoring set up to the subject.
 
 .. Note::
-	See :ref: `testing-room-setup` for more information on recommended audio/visual set-up.
+	See :ref:`testing-room-setup` for more information on recommended audio/visual set-up.
 
 14. When ready to begin the experiment, use the DisplayPort switch to change back to a clone of the stimulus presentation computer.
 15. Explain the task to the participant. Reiterate any special EEG artifact instructions like maintaining fixation or withholding blinks until a certain time. Assure the subject that there are many breaks throughout the experiment and they are free to move around as much as they need to during those portions of the experiment. However, before beginning the task again, they must return to a still and relaxed position.
 
 .. Note::
-	See :ref: `optimal-task-settings` for more details on recommended break settings.
+	See :ref:`optimal-task-settings` for more details on recommended break settings.
 
 16. To begin recording the EEG, hit the ‘Start Recording’ button. Start your recording approximately 10 seconds before the task begins and end the recording approximately 10 seconds after the task ends. This minimizes edge artifacts when filtering the EEG data ofiine.
 17. Monitor the EEG data closely at all times. Do not read books or journal articles, do homework, look at web sites, read email, send texts, etc. In most cases, the experimenter should not have their cell phone nearby, which reduces the temptation to engage in distracting activities.
