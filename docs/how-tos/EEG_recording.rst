@@ -1,4 +1,4 @@
-EEG: Recording
+EEG: Brain Vision Recorder Software
 ===================================
 
 Overview
