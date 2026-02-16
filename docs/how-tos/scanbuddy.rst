@@ -19,20 +19,14 @@ The Scanbuddy software is installed on the data transfer computer in the MRI con
 
 * If Scanbuddy is not running, the browser will display a message like "Safari Can't Connect to the Server". If that's the case, you'll need to start the software. 
 * To start Scanbuddy:
-	* First, make sure Docker is running by starting the ``/Applications/Docker`` app. 
-	* Next, locate the shortcut on the desktop called "StartScanBuddy.command". Run this command by double-clicking the shortcut.
+	(Updated 16 Feb 2026)
+	* Locate the shortcut on the desktop called "StartScanBuddy". Run this command by double-clicking the icon, which looks like this:
 
-	.. image:: ../images/scanbuddy_start_command.png
+	.. image:: ../images/scanbuddy_app.png
 
-	* Once the script runs, you should see this message in a terminal window:
+	* You may need to refresh the safari browser window. 
 
-	.. image:: ../images/scanbuddy_script_ok.png
-
-	* Refresh the browser window and use the username and password displayed in the terminal window from the previous step to log in.
-
-	.. image:: ../images/scanbuddy_login.png
-
-* If Scanbuddy is running and the plugin is configured properly, you should see real-time plots and statistics for motoion during your fMRI scans. Unfortunately, this is not possible for other types of scans (such as structural or diffussion scans). 
+	* If Scanbuddy is running and the plugin is configured properly, you should see real-time plots and statistics for motoion during your fMRI scans. Unfortunately, this is not possible for other types of scans (such as structural or diffussion scans). 
 
 .. Note::
 	Scanbuddy is compatible with multi-band and multi-echo scans, however it is not compatible with other research protocols such as 3D-EPI or MREG. 

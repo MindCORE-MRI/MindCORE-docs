@@ -68,6 +68,14 @@ Prior to Arrival
 	* Any Luer Lock syringes and syringe tips that come in contact with the subject must be discarded or disinfected before re-use.
 
 5. If the subject has participated before and you know their cap size, :ref:`electrode-application` steps 6-9 can also be completed prior to arrival.
+6. Boot up or restart computers in this order:
+	a. Stimulus control computer
+	b. EEG recording computer
+	c. Shut down and restart the KVM switch
+7. Double-check that stimulus control computer is receiving  input from the keyboard in the testing room. 
+
+.. Note:: 
+	If the stimulus control computer is not receiving input from the keyboard in the testing room, try unpugging the USB connection from the keyboard to the KVM switch. You may need to reboot the stimulus control computer.
 
 .. _electrode-application:
 
@@ -142,8 +150,11 @@ eye.
 Running the Subject
 ~~~~~~~~~~~~~~~~~~~
 
-1. When all electrodes are prepped, take the subject into the testing room, leaving their backpack, purse,
-cellphone, etc. outside the testing room.
+1. When all electrodes are prepped, take the subject into the testing room, leaving their backpack, purse, cellphone, etc. outside the testing room.
+
+.. Note::
+	Participants should remove all electronic devices prior to entering the testing room. This includes **cell phones**, smart watches, bluetooth headphones, etc. Have them place their belongings in the provided bin in the EEG control room.
+
 2. Have the subject sit with their feet flat on the fioor and their bottom all the way to the back of the chair. Adjust the chair height so the subject is sitting with their knees bent at a comfortable angle (~90°), and then adjust the height of the monitor on the height-adjustable table so that the center of the screen is
 level with their eye gaze. Make sure the subject is not seated too near external speakers (See :doc:`../how-tos/EEG_noise`). 
 3. Plug the battery into the amplifier.
