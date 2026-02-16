@@ -26,7 +26,7 @@ The Scanbuddy software is installed on the data transfer computer in the MRI con
 
 	* You may need to refresh the safari browser window. 
 
-	* If Scanbuddy is running and the plugin is configured properly, you should see real-time plots and statistics for motoion during your fMRI scans. Unfortunately, this is not possible for other types of scans (such as structural or diffussion scans). 
+* If Scanbuddy is running and the plugin is configured properly, you should see real-time plots and statistics for motoion during your fMRI scans. Unfortunately, this is not possible for other types of scans (such as structural or diffussion scans). 
 
 .. Note::
 	Scanbuddy is compatible with multi-band and multi-echo scans, however it is not compatible with other research protocols such as 3D-EPI or MREG. 
