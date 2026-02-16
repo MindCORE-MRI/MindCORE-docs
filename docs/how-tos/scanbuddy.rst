@@ -18,8 +18,8 @@ The Scanbuddy software is installed on the data transfer computer in the MRI con
 .. image:: ../images/scanbuddy_running.png
 
 * If Scanbuddy is not running, the browser will display a message like "Safari Can't Connect to the Server". If that's the case, you'll need to start the software. 
-* To start Scanbuddy:
-	(Updated 16 Feb 2026)
+* To start Scanbuddy (Updated 16 Feb 2026):
+	
 	* Locate the shortcut on the desktop called "StartScanBuddy". Run this command by double-clicking the icon, which looks like this:
 
 	.. image:: ../images/scanbuddy_app.png
