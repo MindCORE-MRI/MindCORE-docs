@@ -30,11 +30,11 @@ Procedure
 
 1. "Register a Patient" with the following parameters. (Note that demographic details are arbitrary, but I like to use biologically plausible sex/height/weight combinations.) Select "Weekly-QA-ses-64ch" as the scan protocol.
 
-[figure of registration screen]
+.. image:: ../images/stability_registration.png
 
 2. Set up the Funstar phantom in the 64-channel coil using the appropriate 3D-printed phantom holder in the bottom/posterior half of the 64-channel coil. Place the phanom with the black plug at the top. I try to center it but it doesn't have to be perfect. Make sure the phantom holder is level as determined by the spirit level. Slide the top/anterior half of the coil into place and plug it in securely. Use the lazer crosshairs to align with the ridges on the anterior/top portion of the coil.
 
-[figure of phantom in 64-ch coil]
+.. image:: ../images/stability_64chan.jpeg
 
 .. Note::
     Make sure both top and bottom halves of the 64-channel are in place and plugged in before aligning with the front of the scanner. Do not rely on the scanner's "auto isocenter" feature for this as it will undershoot actual isocenter, resulting in increased ghosting. See `this blog post <https://mindcore.sas.upenn.edu/2025/04/22/ghosting-in-multi-band-epi-scans/>`_ for more information.
@@ -43,18 +43,18 @@ Procedure
  4. Note the starting temperature of gradient coil #4:
  	a. Navigate to the "System Check" screen from the Home Screen and click on the "Switch User" icon. 
 
- 	[figure of switch user]
+    .. image:: ../images/switch_user.png
 
  	b. Select "Login with Service Key" and enter the service key from Siemens. See Dr. Kirwan if you don't know where the service key is kept.
 
- 	[figure of login with svc key]
+ 	.. image:: ../images/service_key.png
 
  	c. Select "Diagnosis" > "Magnet & Cooling" > "Gradient & Bore Temp Status". Make a note of the temperature (in C°) for gradient coil 4 (GC4). 
 
- 	[figure of temp screen]
+ 	.. image:: ../images/gradient_temps.png
 
  	d. Leave the System Check window open and navigate back to the "Examination" window by either clicking on it or pressing Alt+Tab.
- 5. Confirm the positioning of the first EPI scan. The defailt location is "isocenter", which should be centered on the Funstar phantom. If the phantom is not in isocenter, move the table back to home position and redo the alignment using the lazer crosshairs. You'll need to redo the localizer in that case. 
+ 5. Confirm the positioning of the first EPI scan. The defailt location is "isocenter", which should be centered on the Funstar phantom. If the phantom is not in isocenter, move the table back to home position and redo the alignment using the laser crosshairs. You'll need to redo the localizer in that case. 
  6. Turn on all coil elements by clicking on them in the protocol parameters window. Failure to do this will result in lower SNR measures.
  7. 
 

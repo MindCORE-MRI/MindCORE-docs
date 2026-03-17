@@ -25,6 +25,7 @@ Contents
    :caption: How-tos: MRI
 
    how-tos/scanbuddy
+   how-tos/MRI_software_video
    how-tos/MRI_registration
    how-tos/MRI_backup
    how-tos/MRI_exporting
