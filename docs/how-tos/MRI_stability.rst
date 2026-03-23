@@ -46,11 +46,11 @@ Procedure
   
   Switch user icon highlighted in red.
    
-  .. image:: ../images/service_key.png
+  .. figure:: ../images/service_key.png
 
   Login with Service Key screen. Ask Dr. Kirwan for the current service key.
 
-  .. image:: ../images/gradient_temps.png
+  .. figure:: ../images/gradient_temps.png
 
   Record the temperature of gradient coil 4 (GC4) when directed in the protocol
 
