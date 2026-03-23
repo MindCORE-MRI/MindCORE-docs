@@ -40,17 +40,17 @@ Procedure
     Make sure both top and bottom halves of the 64-channel are in place and plugged in before aligning with the front of the scanner. Do not rely on the scanner's "auto isocenter" feature for this as it will undershoot actual isocenter, resulting in increased ghosting. See `this blog post <https://mindcore.sas.upenn.edu/2025/04/22/ghosting-in-multi-band-epi-scans/>`_ for more information.
 
 3. Run the anat-localizer scan.
-4. Note the starting temperature of gradient coil #4:
+4. Make a note of the starting temperature of gradient coil #4:
  	a. Navigate to the "System Check" screen from the Home Screen and click on the "Switch User" icon. 
+  .. image:: ../images/switch_user.png
+ 	
+   b. Select "Login with Service Key" and enter the service key from Siemens. See Dr. Kirwan if you don't know where the service key is kept.
 
-    .. image:: ../images/switch_user.png
- 	b. Select "Login with Service Key" and enter the service key from Siemens. See Dr. Kirwan if you don't know where the service key is kept.
-
- 	.. image:: ../images/service_key.png
+ .. image:: ../images/service_key.png
 
  	c. Select "Diagnosis" > "Magnet & Cooling" > "Gradient & Bore Temp Status". Make a note of the temperature (in C°) for gradient coil 4 (GC4). 
 
- 	.. image:: ../images/gradient_temps.png
+ .. image:: ../images/gradient_temps.png
 
  	d. Leave the System Check window open and navigate back to the "Examination" window by either clicking on it or pressing Alt+Tab.
 5. Confirm the positioning of the first EPI scan. The default location is "isocenter", which should be centered on the Funstar phantom. If the phantom is not in isocenter, move the table back to home position and redo the alignment using the laser crosshairs. You'll need to redo the localizer also in that case. 
