@@ -67,10 +67,7 @@ Procedure
 
   .. image:: ../images/stability_32chan.jpeg
 
-11. Add the "Weekly-QA-ses-32ch" scan protocol by clicking the + above the scan sequence list, selecting the "Weekly-QA-ses-32ch" protocol, and clicking the << to bring over the entire protocol. A widow will pop up to confirm that the patient information is correct--select "Yes, but the patient or coils hve moved (new localizer necessary)" and click "Continue". You may need to double-click on the anat-localizer scan and click "Continue" again to get the localizer to run.
-
-  .. image:: ../images/stability_add_32chan.mp4
-
+11. Add the "Weekly-QA-ses-32ch" scan protocol by clicking the + above the scan sequence list, selecting the "Weekly-QA-ses-32ch" protocol, and clicking the << to bring over the entire protocol. A widow will pop up to confirm that the patient information is correct--select "Yes, but the patient or coils hve moved (new localizer necessary)" and click "Continue". You may need to double-click on the anat-localizer scan and click "Continue" again to get the localizer to run. Click `here <../images/stability_add_32chan.mp4>`_ to download a video demonstrating this step.
 12. After the localizer completes, confirm the positioning of the first EPI scan. The default location is "isocenter", which should be centered on the Funstar phantom. If the phantom is not in isocenter, move the table back to home position and redo the alignment using the laser crosshairs. You'll need to redo the localizer also in that case. 
 13. The coil elements of the 32-channel coil will all be turned on by default. Click "Go" to accept positioning and begin the first scan. Positioning for the next scans will be copied from the first scan. Double-click the remaining functional scans to double-check the coil elements are turned on and the poisitioning is correct. You do not need to note the temperature with the 32-channel coil.
 14. After the last scan with the 32-channel coil, replace it with the 20-channel coil. Use the "bullet" phantom and holder as below.
