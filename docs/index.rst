@@ -30,9 +30,10 @@ Contents
    how-tos/MRI_backup
    how-tos/MRI_exporting
    how-tos/MRI_closing
-   how-tos/MRI_eyetracker_setup
    how-tos/MRI_restart
-
+   how-tos/MRI_stability
+   how-tos/MRI_eyetracker_setup
+   
 .. toctree::
    :maxdepth: 1
    :caption: How-tos: EEG
