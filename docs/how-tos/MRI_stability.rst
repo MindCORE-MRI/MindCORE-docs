@@ -40,13 +40,19 @@ Procedure
     Make sure both top and bottom halves of the 64-channel are in place and plugged in before aligning with the front of the scanner. Do not rely on the scanner's "auto isocenter" feature for this as it will undershoot actual isocenter, resulting in increased ghosting. See `this blog post <https://mindcore.sas.upenn.edu/2025/04/22/ghosting-in-multi-band-epi-scans/>`_ for more information.
 
 3. Run the anat-localizer scan.
-4 Make a note of the starting temperature of gradient coil #4: a) Navigate to the "System Check" screen from the Home Screen and click on the "Switch User" icon. b) Select "Login with Service Key" and enter the service key from Siemens. See Dr. Kirwan if you don't know where the service key is kept. c) Select "Diagnosis" > "Magnet & Cooling" > "Gradient & Bore Temp Status". Make a note of the temperature (in C°) for gradient coil 4 (GC4). d) Leave the System Check window open and navigate back to the "Examination" window by either clicking on it or pressing Alt+Tab.
+4. Make a note of the starting temperature of gradient coil #4: a) Navigate to the "System Check" screen from the Home Screen and click on the "Switch User" icon. b) Select "Login with Service Key" and enter the service key from Siemens. See Dr. Kirwan if you don't know where the service key is kept. c) Select "Diagnosis" > "Magnet & Cooling" > "Gradient & Bore Temp Status". Make a note of the temperature (in C°) for gradient coil 4 (GC4). d) Leave the System Check window open and navigate back to the "Examination" window by either clicking on it or pressing Alt+Tab.
 
-  .. image:: ../images/switch_user.png
+  .. figure:: ../images/switch_user.png
+  
+  Switch user icon highlighted in red.
    
   .. image:: ../images/service_key.png
 
+  Login with Service Key screen. Ask Dr. Kirwan for the current service key.
+
   .. image:: ../images/gradient_temps.png
+
+  Record the temperature of gradient coil 4 (GC4) when directed in the protocol
 
 5. Confirm the positioning of the first EPI scan. The default location is "isocenter", which should be centered on the Funstar phantom. If the phantom is not in isocenter, move the table back to home position and redo the alignment using the laser crosshairs. You'll need to redo the localizer also in that case. 
 6. Turn on all coil elements by clicking on them in the protocol parameters window. Failure to do this will result in lower SNR measures.
