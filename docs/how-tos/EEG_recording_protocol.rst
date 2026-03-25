@@ -16,7 +16,6 @@ Jump to
 * :ref:`time-taken`
 * :ref:`anticipated-results`
 * :ref:`references`
-* :ref:`resources`
 
 ----
 
@@ -369,16 +368,4 @@ Kappenman, E. S., & Luck, S. J. (2010). The effects of electrode impedance on da
 Kappenman, E. S., & Luck, S. J. (2016). Best practices for event-related potential research in clinical populations. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1, 110-115. `https://doi.org/10.1016/j.bpsc.2015.11.007 <https://doi.org/10.1016/j.bpsc.2015.11.007>`_ 
 
 Luck, S. J. (2014). *An Introduction to the Event-Related Potential Technique* (2nd ed.). MIT Press. (Select chapters available for free download `here <https://erpinfo.org/free-online-chapters>`_)
-
-----
-
-.. _resources:
-
-Resources
----------
-* BrainVision's `tips and tricks for cap cable management <https://pressrelease.brainproducts.com/acticap-setup/>`_
-* `BrainVision Recorder software <https://www.brainproducts.com/solutions/recorder/>`_
-* `How to replace an active electrode (actiCAP) <https://www.youtube.com/watch?v=C7Xnb4ImJcc>`_
-* BrainVision `user manuals <https://www.brainproducts.com/downloads/manuals/>`_
-
 
