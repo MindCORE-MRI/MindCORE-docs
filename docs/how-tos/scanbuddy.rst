@@ -5,6 +5,12 @@ Overview
 ---------
 Scanbuddy is software for monitoring motion in real time during fMRI scan acquisition. Scanbuddy compares each volume to the previous volume and gives an estimate of motion in graphic format. The software also gives an estimate of signal to noise (SNR) for the scan overall. See `here <https://scanbuddy.readthedocs.io/en/main/>`_ for more detail on the development of Scanbuddy.
 
+Citation
+--------
+If you use Scanbuddy in your research, please include a citation to the following paper in the Methods section of your manuscripts: 
+
+Asay et al., (2025). Scanbuddy: fMRI motion plotting and SNR estimation at scan acquisition. Journal of Open Source Software, 10(113), 8119, `https://doi.org/10.21105/joss.08119 <https://doi.org/10.21105/joss.08119>`_
+
 Usage
 ---------
 **Prior to scanning**: 
