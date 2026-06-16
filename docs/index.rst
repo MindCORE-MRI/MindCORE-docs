@@ -33,6 +33,7 @@ Contents
    how-tos/MRI_restart
    how-tos/MRI_stability
    how-tos/MRI_eyetracker_setup
+   how-tos/MRI_kvm
    
 .. toctree::
    :maxdepth: 1
