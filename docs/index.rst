@@ -24,7 +24,8 @@ Contents
    :maxdepth: 1
    :caption: How-tos: MRI
 
-   how-tos/scanbuddy
+   how-tos/MRI_scanbuddy
+   how-tos/MRI_start_orthanc.rst
    how-tos/MRI_software_video
    how-tos/MRI_registration
    how-tos/MRI_backup
